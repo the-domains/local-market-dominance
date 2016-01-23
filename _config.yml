@@ -1,0 +1,28 @@
+name: Local Market Dominance
+favicon: null
+layout_spectrum: 0.08324587973766029
+typography_spectrum: 0.14624959067441523
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.271023336565122
+  lightness: 0.23122022743336856
+  saturation: 0.09340297197923064
+  rhythmicContrast: 0.7452776853460819
+purpose: []
